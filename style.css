@@ -1,0 +1,39 @@
+body {color: #080808;
+      background-color: #ececec;
+      font-family: 'Raleway', sans-serif;
+      font-size: 20px;
+      font-weight: 1.5;
+}
+h1,
+h2,
+h3
+{ color: #807c7c;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+}
+a {
+      color: #b0acac;
+      font-style: italic;
+}
+h1 {
+      font-size: 80px;
+      text-align: center;
+}
+h2 {
+      font-size: 48px;
+      text-align: center;
+}
+h3 {
+      font-size: 24px;
+}
+
+.fotogalerie,
+.kontakt {
+      background-color: #463e3c;
+}
+
+.paticka {
+      background-color: rgb(176, 151, 140);
+      color: #463e3c;
+      text-align: center;
+}
