@@ -9,6 +9,7 @@ body {color: #080808;
 .hlavicka {
       background-image: url(Fotografie/Mary.jpg);
       padding: 350px 30px;
+      background-size: cover;
 }
 
 h1,
@@ -50,11 +51,10 @@ h3 {
 }
 
 .foto-omne {
-      width: 300px;
+      width: 200px;
       border-radius: 50%;
       float: left;
       margin-right: 30px;
-      margin-bottom: 30px;
 }
 
 .fotogalerie img {
@@ -66,14 +66,14 @@ h3 {
       border: solid white;
       border-radius: 50px 50px 50px 0;
       float: right;
-      margin: 60px 30px 30px
+      margin-right: 30px
 }
 
 .foto-kontakt {
       width: 400px;
       border-radius: 50px 50px 50px 0;
       float: left;
-      margin: 30px 30px 30px 0;
+      margin-right: 30px;
 }
 
 table {
