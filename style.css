@@ -100,3 +100,27 @@ section {
 .fotogalerietext {
       text-align: center;
 }
+
+.menu li {
+      display: inline-block;
+}
+
+.menu {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background-color: #463e3c;
+}
+
+.menu a {
+      color: white;
+      text-decoration: none;
+      padding: 20px 30px;
+      display: inline-block;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+      background-color: #807c7c;
+}
