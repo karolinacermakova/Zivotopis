@@ -37,3 +37,19 @@ h3 {
       color: #463e3c;
       text-align: center;
 }
+
+.foto-omne {
+      width: 300px;
+}
+
+.fotogalerie img {
+      width: 32%;
+}
+
+.nechcivasjenfotit img {
+      width: 300px;
+}
+
+.kontakt img {
+      width: 400px;
+}
