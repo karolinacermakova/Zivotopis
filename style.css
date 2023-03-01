@@ -40,16 +40,18 @@ h3 {
 
 .foto-omne {
       width: 300px;
+      border-radius: 50%;
+      
 }
 
 .fotogalerie img {
       width: 32%;
 }
 
-.nechcivasjenfotit img {
+.foto-nechcivasjenfotit {
       width: 300px;
 }
 
-.kontakt img {
+.foto-kontakt {
       width: 400px;
 }
